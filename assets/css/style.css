@@ -1,0 +1,17 @@
+.body {
+    text-align: center;
+
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+    color: #000000;
+    }
+
+.container {
+    border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px
+}
